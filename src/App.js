@@ -13,7 +13,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        <Header title='This is my title' text='Tesla is the best EV car on the market'>
+        <Header title='Title edite to Tesla' text='Tesla is the best EV car on the market'>
         {men}
         </Header>
         </p>
