@@ -20,6 +20,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
         <Header title='Title edite to Tesla' text='Tesla is the best EV car on the market'>
+          <Link to='/p'>Link to next page</Link>
         {men}
         </Header>
         </p>
